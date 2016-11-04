@@ -10,7 +10,6 @@
 			<li><a href="aula2/">Aula 2</a></li>
 			<li><a href="aula3/">Aula 3</a></li>
 			<li><a href="aula4/">Aula 4</a></li>
-			<li><a href="aula5/">Aula 5</a></li>
 			<li><a href="aula6/">Aula 6</a></li>
 			<li><a href="aula7/">Aula 7</a></li>
 		</ul>
